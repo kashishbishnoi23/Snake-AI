@@ -23,6 +23,7 @@ matplotlib>=3.4.0
 
 1. Clone the repository:
 ```bash
+git clone https://github.com/kashishbishnoi23/Snake-AI.git
 
 cd snake_ai_dqn
 ```
